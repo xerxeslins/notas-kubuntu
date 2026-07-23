@@ -2,5 +2,5 @@
 
 ## Índice
 
-[Configuração Kubuntu + backports](arquivos/config_inicial_ppa.md): pós-instalação inicial do Kubuntu + PPA Backports para KDE Plasma mais atual.
-[iwd no Networkmanager](arquivos/iwd.md): substituir wpa_supplicant por iwd.
+* [Configuração Kubuntu + backports](arquivos/config_inicial_ppa.md): pós-instalação inicial do Kubuntu + PPA Backports para KDE Plasma mais atual.
+* [iwd no Networkmanager](arquivos/iwd.md): substituir wpa_supplicant por iwd.
